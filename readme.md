@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.2%2B-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Este projeto consiste em uma API RESTful desenvolvida com **FastAPI** para servir um modelo de Machine Learning. O modelo, treinado com **Scikit-learn**, é capaz de prever o preço de um carro usado com base em suas características, como marca, modelo, ano e quilometragem.
 
