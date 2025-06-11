@@ -153,7 +153,3 @@ curl -X 'POST' \
 -   [ ] Adicionar testes unitários e de integração com `pytest`.
 -   [ ] "Dockerizar" a aplicação para facilitar o deploy.
 -   [ ] Fazer o deploy da API em um serviço de nuvem (Heroku, AWS, Google Cloud).
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
